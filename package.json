@@ -1,7 +1,7 @@
 {
-  "name": "boilerplate_webpack",
+  "name": "material_design_fields",
   "version": "1.0.0",
-  "description": "Сборка typescript, react, webpack",
+  "description": "",
   "main": "index.js",
   "engines": {
     "npm": ">=5.2",
